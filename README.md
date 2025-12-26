@@ -34,7 +34,7 @@ This interactive Tableau dashboard analyzes HR data to help identify patterns in
 ![HR Summary Dashboard](https://github.com/MayankAgrawal099/HR-Analytics-Dashboard-Tableau-/blob/main/Dashboard-Preview/HR%20_%20Summary.png)
 
 ### 🔷 Employee Details Dashboard  
-![HR Details Dashboard](https://github.com/MayankAgrawal099/HR-Analytics-Dashboard(Tableau)/blob/main/Dashboard-Preview/HR%20_%20Details.png?raw=true)
+![HR Details Dashboard](https://github.com/MayankAgrawal099/HR-Analytics-Dashboard-Tableau-/blob/main/Dashboard-Preview/HR%20_%20Details.png)
 
 ---
 
